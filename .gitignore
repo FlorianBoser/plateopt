@@ -1,0 +1,6 @@
+src/plateopt.egg-info
+src/plateopt/__pycache__
+src/plateopt/.ruff_cache
+pytests/__pycache__
+.ipynb_checkpoints/
+benchmark_results/
