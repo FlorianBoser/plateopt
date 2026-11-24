@@ -1,5 +1,9 @@
 # Parallel and Resource-Efficient Bayesian Reaction Optimization
 
+📄 Paper: [![ChemRxiv](https://img.shields.io/badge/ChemRxiv-10.26434%2Fchemrxiv.15012572%2Fv1-007398.svg)](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15012572/v1)
+
+---
+
 ![Overview of workflow](assets/banner.png)
 
 ## 🔍 Overview
@@ -118,12 +122,12 @@ The HTE experimental data reported in the manuscript can be found in `publicatio
 If you use PlateOpt, please cite:
 
 ```bibtex
-@article{TODO,
-  title   = {TODO},
-  author  = {TODO},
-  journal = {TODO},
-  year    = {TODO},
-  doi     = {TODO}
+@article{Katzenburg2026,
+  title   = {Parallel and Resource-Efficient Bayesian Reaction Optimization},
+  author  = {Katzenburg, Felix and Boser, Florian and Sin, Joshua W. and Ranković, Bojana and Kopf, Sarina and Schreiner, Florian and Coersmeier, Kea and Daniliuc, Constantin G. and Hansen, Michael Ryan and Schwaller, Philippe and Glorius, Frank},
+  journal = {ChemRxiv},
+  year    = {2026},
+  doi     = {10.26434/chemrxiv.15012572/v1}
 }
 ```
 
