@@ -1,5 +1,9 @@
 # Parallel and Resource-Efficient Bayesian Reaction Optimization
 
+📄 Paper: [![ChemRxiv](https://img.shields.io/badge/ChemRxiv-10.26434%2Fchemrxiv.15012572%2Fv1-007398.svg)](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15012572/v1)
+
+---
+
 ![Overview of workflow](assets/banner.png)
 
 ## 🔍 Overview
